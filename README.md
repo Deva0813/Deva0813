@@ -1,12 +1,13 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi 👋, I'm Devanand</h1>
-<h3 align="center">A passionate full stack and python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate python and full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva0813&label=Profile%20views&color=0e75b6&style=flat" alt="deva0813" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deva0813" alt="deva0813" /></a> </p>
+
+<img align="right"  alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **IBM Nalaiyathiran**
 
