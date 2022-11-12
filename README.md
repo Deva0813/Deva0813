@@ -5,7 +5,11 @@
 
 <img align="right"  alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **IBM Nalaiyathiran**
+<br>
+<br>
+<br>
+
+- 🔭 I’m currently Studing **B.E. Copmuter Science & Engineering**
 
 - 🌱 I’m currently learning **JAVA , React Native , etc.**
 
