@@ -6,8 +6,6 @@
 <img align="right"  alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-<br>
-<br>
 
 - 🔭 I’m currently Studing **B.E. Copmuter Science & Engineering**
 
