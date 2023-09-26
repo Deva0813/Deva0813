@@ -7,8 +7,8 @@
 
 <br>
 
-- 🔭 I’m currently Studing **B.E. Copmuter Science & Engineering**
-
+- 🔭 I’m a  **B.E. Copmuter Science & Engineering** graduate
+ 
 - 🌱 I’m currently learning **JAVA , React Native , etc.**
 
 - 💬 Ask me about **Python , Web Development , Cyber Security , Ethical Hacking .**
